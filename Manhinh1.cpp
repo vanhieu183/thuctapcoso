@@ -15,8 +15,8 @@ int main(){
 	printf("\n\t\t(b) Press 1 to Login as admin.");
 	printf("\n\t\t(c) Press 2 to Register as admin.");
 	printf("\n\t\t(d) Press 3 to Login as Passenger.");
-	printf("\n\t\t(f) Press 5 to Display the User Manual.");
 	printf("\n\t\t(e) Press 4 to Register as Passenger.");
+	printf("\n\t\t(f) Press 5 to Display the User Manual.");
 	printf("\n\t\tEnter the desired option:    ");
     
 }
