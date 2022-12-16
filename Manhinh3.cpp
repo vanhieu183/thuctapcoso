@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 int main(){
 	printf("\n\n\t\t(a) Press 0 to Exit.");
 	printf("\n\t\t(b) Press 1 to Login as admin.");
@@ -31,4 +32,3 @@ int main(){
     printf("%-40s (g) Enter 0 to Go back to the Main Menu/Logout....\n", "");
     printf("Enter the desired Choice :   ");
 }
-
