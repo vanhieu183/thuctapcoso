@@ -1,11 +1,17 @@
 #include<stdio.h>
+void flightScheduler() {
+    
+}
 
+void addNewCustomerToFlight() {
+    
+}
 int main(){
 	string flightSchedule;
     string flightNumber;
     string fromWhichCity;
     string gate;
-    final String toWhichCity;
+    string toWhichCity;
     double distanceInMiles;
     double distanceInKm;
     string flightTime;
