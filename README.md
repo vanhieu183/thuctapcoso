@@ -1,4 +1,7 @@
 # thuctapcoso
+Sinh viên thực hiện: Lê Văn Hiếu
+Mssv: 61133636
+
 Đây là chương trình về một Hệ thống đặt chỗ đường hàng không bằng ngôn ngữ lập trình java.
 Gồm có chuyến bay, khách hàng, khoảng cách bay, đặt chỗ chuyến bay, vai trò và quyền, .... Tóm tại, hệ thống này giúp quản trị viên có thể quản lý khách hàng đặt và huỷ các chuyến bay.
 Ở đây em chỉ làm được ở bước các màn hình hiển thị giống với hệ thống chính bằng ngôn ngữ C, chẳng hạn như:
