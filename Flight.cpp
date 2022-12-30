@@ -15,9 +15,11 @@ void addNewCustomerToFlight() {
     
 }
 int main(){
+	
     double distanceInMiles;
     double distanceInKm;
     char flightTime [10];
     int customerIndex;
     int nextFlightDay;
+    
 }
