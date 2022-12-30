@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
-	printf("\n\t\t\t\ts+++++++++ 3rd Layer Menu +++++++++				Logged in as \n");
+	printf("\n\t\t\t\t\t\ts+++++++++ 3rd Layer Menu +++++++++				Logged in as \"someone@gmail.com\"\n");
 	printf("%-40s (a) Enter 1 to Book a flight....\n", "");
     printf("%-40s (b) Enter 2 to update your Data....\n", "");
     printf("%-40s (c) Enter 3 to delete your account....\n", "");
