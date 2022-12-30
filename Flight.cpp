@@ -1,4 +1,12 @@
 #include<stdio.h>
+struct Flight{
+        char flightSchedule[50];
+        char flightNumber[40];
+        int numOfSeatsInTheFlight;
+        char toWhichCity[50];
+        char fromWhichCity[50];
+        char gate[10];
+};
 void flightScheduler() {
     
 }
@@ -7,15 +15,9 @@ void addNewCustomerToFlight() {
     
 }
 int main(){
-	string flightSchedule;
-    string flightNumber;
-    string fromWhichCity;
-    string gate;
-    string toWhichCity;
     double distanceInMiles;
     double distanceInKm;
-    string flightTime;
-    int numOfSeatsInTheFlight;
+    char flightTime [10];
     int customerIndex;
-    int nextFlightDay = 0;
+    int nextFlightDay;
 }
