@@ -14,8 +14,8 @@ Gồm có chuyến bay, khách hàng, khoảng cách bay, đặt chỗ chuyến 
 + Màn hình 7: Màn hình hiển thị Lịch bay ngẫu nhiên (Lịch trình có thể thay đổi khi chương trình chạy lại).
 + Màn hình 8: Màn hình hiển thị Chuyến bay do khách hàng đăng ký (Hiển thị thông tin về các chuyến bay được đăng ký bởi khách hàng đã đăng nhập và cũng hiển thị trạng thái chuyến bay).
 + Màn hình 9: Màn hình hiển thị Đăng ký & Đăng nhập quản trị viên (Quản trị viên có thể thực hiện các thao tác quản lý chuyến bay và khách hàng).
-+ Class Fight.
++ Class Flight.
 
 Về những khó khăn mà em gặp phải đó là kiến thức về lập trình em không được vững, nên khi đọc về ngôn ngữ java em không hiểu về biến về các hàm khi chuyển từ ngôn ngữ Java sang ngôn ngữ C.
-Khi làm về class Fight em chỉ đọc được một số như: Cấu trúc biến để chuyển về Struct
-Em nghĩ là ở class Fight sẽ dùng con trỏ, ma trận và còn lưu dữ liệu vào file nhưng em không hiểu được nên em vẫn chưa thể hoàn thành được như yêu cầu ạ.
+Khi làm về class Flight em chỉ đọc được một số như: Cấu trúc biến để chuyển về Struct
+Em nghĩ là ở class Flight sẽ dùng con trỏ, ma trận và còn lưu dữ liệu vào file nhưng em không hiểu được nên em vẫn chưa thể hoàn thành được như yêu cầu ạ.
